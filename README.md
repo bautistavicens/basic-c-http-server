@@ -2,13 +2,14 @@
 
 ### S.O utilizado: Ubuntu.
 
-### Compilador: gcc-4.1
+### Compilador: gcc-4.1.
+
 
 ## Instrucciones
 
 1. Abrir terminal.
 2. Ingresar a la carpeta raíz del proyecto.
-3. Ejecutar make (escribír make en la terminarl y presionar enter)
+3. Ejecutar make (escribír make en la terminarl y presionar enter).
 4. Ejecutar server (escribír ./server y presionar enter).
 
    
